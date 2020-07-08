@@ -2,6 +2,9 @@
     height: 68px;
     weight: 29px;
 }
+.headings{
+    font-weight: 700;
+}
 .button{
     background-color: #21B573;
     color: white;
@@ -36,14 +39,21 @@
 }
 .card{
     border: none;
+    /* box-shadow: 5px 5px 10px lightgray; */
+}
+.card-card{
+    border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+
 .card-back{
     background-color: #F0FFF0;
+    border: none;
     
 }
 .card-back:hover{
     background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
 }
 .marg{
     margin: 5%;
