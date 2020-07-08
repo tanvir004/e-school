@@ -1,0 +1,86 @@
+.logo{
+    height: 68px;
+    weight: 29px;
+}
+.button{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.first-line{
+    color: orangered;
+}
+.head-line{
+    color: #21B573;
+}
+.container{
+    margin-bottom: 100px;
+}
+.sec{
+    background-color: #F0FFF0;
+}
+.topic{
+    
+}
+
+.card-ico{
+    height: 20px;
+    
+}
+.courses-img{
+    margin: 5%;
+    width: 90%;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-back{
+    background-color: #F0FFF0;
+    
+}
+.card-back:hover{
+    background-color: white;
+}
+.marg{
+    margin: 5%;
+}
+.text{
+    text-align: center;
+    font-weight: 700;
+}
+.testimonial-img{
+    width: 20%;
+}
+footer{
+    background-color: #282531;
+    color: white;
+    position:relative;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    height: 200px;
+}
+.img-width{
+    width: 50%;
+    margin: 5%;
+}
+.abc{
+    text-align: left;
+}
+.copyright{
+    text-align: center;
+}
+ul li{
+    list-style-type: none;
+}
+ul li a{
+    color: white;
+}
+ul li a:hover{
+    text-decoration: none;
+    color: wheat;
+}
